@@ -1,8 +1,6 @@
 # 代理补充列表
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,tool.lu
-DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,okztwo.com
 DOMAIN-SUFFIX,fanart.tv
 DOMAIN-SUFFIX,test-ipv6.com
