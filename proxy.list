@@ -4,6 +4,7 @@
 DOMAIN-SUFFIX,okztwo.com
 DOMAIN-SUFFIX,fanart.tv
 DOMAIN-SUFFIX,test-ipv6.com
+DOMAIN-SUFFIX,ipinfo.io
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
