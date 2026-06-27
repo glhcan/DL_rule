@@ -2,6 +2,8 @@
 
 # 域名后缀匹配
 DOMAIN,gofile.io
+DOMAIN,api.gofile.io
+DOMAIN,s.gofile.io
 DOMAIN-SUFFIX,ssrdog.com
 DOMAIN-SUFFIX,okztwo.net
 DOMAIN-SUFFIX,hgeme.com
