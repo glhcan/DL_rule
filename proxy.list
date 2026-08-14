@@ -1,7 +1,7 @@
 # 代理补充列表
 
 # 域名后缀匹配
-
+DOMAIN,login.vivaldi.net
 DOMAIN-SUFFIX,yunyoo.cc
 DOMAIN-SUFFIX,saltyfish.io
 DOMAIN-SUFFIX,qichiyu.com
