@@ -1,6 +1,7 @@
 # 代理补充列表
 
 # 域名后缀匹配
+
 DOMAIN-SUFFIX,yunyoo.cc
 DOMAIN-SUFFIX,saltyfish.io
 DOMAIN-SUFFIX,qichiyu.com
@@ -11,7 +12,6 @@ DOMAIN-SUFFIX,hgeme.com
 DOMAIN-SUFFIX,xn--ykq321c.com
 DOMAIN-SUFFIX,gpsoft.com.au
 DOMAIN-SUFFIX,igruha.org
-
 DOMAIN-SUFFIX,okztwo.com
 DOMAIN-SUFFIX,fanart.tv
 DOMAIN-SUFFIX,test-ipv6.com
@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,ipinfo.io
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,fanart
+DOMAIN-KEYWORD,vivaldi
 
 
 
